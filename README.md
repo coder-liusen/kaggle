@@ -1,7 +1,7 @@
 # kaggle
 kaggle competition code
 
-This repository is used to store python projects for kaggle competition, so far it only has a titanic competition in it.  
+This repository is used for storing python projects for kaggle competition, so far it only has a titanic competition in it.  
   
 1.titanic:  
 use pandas to preprocess the data,mostly discard the columns of the data in which the missing value exits,and transform str type to int;  
